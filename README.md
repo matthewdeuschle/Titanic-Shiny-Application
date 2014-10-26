@@ -47,7 +47,7 @@ Additional Info
 These are the files produced during a homework assignment of Coursera's MOOC Developing Data Products from Johns Hopkins University, where students could pick any dataset, and should produce a web app hosted on SaaS platform from RStudio shinyapss.io.
 
 1.  RStudio Shiny Server: https://dpaurelio.shinyapps.io/dpaurelio/                                               
-    GitHub Repo: https://github.com/diogoaurelio/titanicShinyApp
+    GitHub Repo: https://github.com/attbigdatagroup/Titanic-Shiny-Application
 
 
 2.  For more information about the Kaggle Titanic challenge visit:
