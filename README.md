@@ -28,7 +28,7 @@ Project Description - About this Shiny App
 This is a Shiny Application developed using the Kaggle's Titanic dataset that predicts the fate of the passengers aboard the RMS Titanic, which famously sank in the Atlantic ocean during its maiden voyage from the UK to New York City after colliding with an iceberg.
 
 
-About Kaggle Titanic Challenge
+About the Kaggle Titanic Challenge
 ==============================
 
 Predict survival on the Titanic (with tutorials in Excel, Python, R, and an introduction to Random Forests)
@@ -44,9 +44,9 @@ Additional Info
 ===============
 
 
-These are the files produced during a homework assignment of Coursera's MOOC Developing Data Products from Johns Hopkins University, where students could pick any dataset, and should produce a web app hosted on SaaS platform from RStudio shinyapss.io.
+These are the files produced for the Developing Data Products final project from Johns Hopkins University.
 
-1.  RStudio Shiny Server: https://dpaurelio.shinyapps.io/dpaurelio/                                               
+1.  RStudio Shiny Server Web App: https://attbigdatagroup.shinyapps.io/Titanic-Shiny-Application/                                              
     GitHub Repo: https://github.com/attbigdatagroup/Titanic-Shiny-Application
 
 
