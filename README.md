@@ -53,7 +53,7 @@ These are the files produced during a homework assignment of Coursera's MOOC Dev
 2.  For more information about Kaggle Titanic challenge visit:
     https://www.kaggle.com/c/titanic-gettingStarted
 
-3.  For more information inspiration about the Kaggle Titanic challenge visit Tevor's R tutorial here:
+3.  For more inspiration about the Kaggle Titanic challenge visit Tevor's R tutorial here:
     http://trevorstephens.com/post/72916401642/titanic-getting-started-with-r
 
 
