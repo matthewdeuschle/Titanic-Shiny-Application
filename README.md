@@ -50,7 +50,7 @@ These are the files produced during a homework assignment of Coursera's MOOC Dev
     GitHub Repo: https://github.com/diogoaurelio/titanicShinyApp
 
 
-2.  For more information about Kaggle Titanic challenge visit:
+2.  For more information about the Kaggle Titanic challenge visit:
     https://www.kaggle.com/c/titanic-gettingStarted
 
 3.  For more inspiration about the Kaggle Titanic challenge visit Tevor's R tutorial here:
